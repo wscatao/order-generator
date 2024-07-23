@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectStateService">
+    <option name="data">
+      <map>
+        <entry key="wscatao@gmail.com">
+          <value>
+            <ProjectStateData>
+              <option name="conversationId" value="01J3DRQM0SP3JQDP1ZXZTCAAJW" />
+              <option name="indexedFiles">
+                <map>
+                  <entry key="$PROJECT_DIR$/docker/docker-compose.yml" value="6561" />
+                  <entry key="$PROJECT_DIR$/pom.xml" value="33930" />
+                  <entry key="$PROJECT_DIR$/src/main/java/br/com/btgpactual/ordergenerator/OrderGeneratorApplication.java" value="67071" />
+                  <entry key="$PROJECT_DIR$/src/main/java/br/com/btgpactual/ordergenerator/adapters/inbound/controller/OrderController.java" value="80009" />
+                  <entry key="$PROJECT_DIR$/src/main/java/br/com/btgpactual/ordergenerator/adapters/inbound/messaging/RabbitMQListener.java" value="7066" />
+                  <entry key="$PROJECT_DIR$/src/main/java/br/com/btgpactual/ordergenerator/adapters/inbound/request/OrderRequest.java" value="71739" />
+                  <entry key="$PROJECT_DIR$/src/main/java/br/com/btgpactual/ordergenerator/adapters/outbound/messaging/RabbitMQSender.java" value="6974" />
+                  <entry key="$PROJECT_DIR$/src/main/java/br/com/btgpactual/ordergenerator/adapters/rabbitmq/RabbitMQListener.java" value="6781" />
+                  <entry key="$PROJECT_DIR$/src/main/java/br/com/btgpactual/ordergenerator/config/RabbitMQConfig.java" value="6639" />
+                  <entry key="$PROJECT_DIR$/src/main/java/br/com/btgpactual/ordergenerator/config/common/annotation/UUIDValidator.java" value="50142" />
+                  <entry key="$PROJECT_DIR$/src/main/java/br/com/btgpactual/ordergenerator/config/common/annotation/ValidUUID.java" value="50546" />
+                  <entry key="$PROJECT_DIR$/src/main/java/br/com/btgpactual/ordergenerator/config/rabbitmq/RabbitMQConfig.java" value="46477" />
+                  <entry key="$PROJECT_DIR$/src/main/java/br/com/btgpactual/ordergenerator/config/rabbitmq/common/annotation/UUIDValidator.java" value="0" />
+                  <entry key="$PROJECT_DIR$/src/main/java/br/com/btgpactual/ordergenerator/domain/model/Order.java" value="79163" />
+                </map>
+              </option>
+              <option name="projectId" value="01J3DRQKZ3X46P2KTPZZ6X31EM" />
+            </ProjectStateData>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
