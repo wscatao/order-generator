@@ -1,0 +1,16 @@
+br/com/btgpactual/ordergenerator/app/usecase/OrderUseCaseImpl.class
+br/com/btgpactual/ordergenerator/adapters/inbound/request/OrderRequest.class
+br/com/btgpactual/ordergenerator/OrderGeneratorApplication.class
+br/com/btgpactual/ordergenerator/adapters/inbound/request/OrderRequest$ItensRequest.class
+br/com/btgpactual/ordergenerator/adapters/outbound/messaging/response/OrderResponse.class
+br/com/btgpactual/ordergenerator/domain/model/Order.class
+br/com/btgpactual/ordergenerator/ports/out/OrderMessaging.class
+br/com/btgpactual/ordergenerator/domain/model/Order$Itens.class
+br/com/btgpactual/ordergenerator/app/services/OrderService.class
+br/com/btgpactual/ordergenerator/config/rabbitmq/RabbitMQConfig.class
+br/com/btgpactual/ordergenerator/app/usecase/OrderUseCase.class
+br/com/btgpactual/ordergenerator/app/services/OrderServiceImpl.class
+br/com/btgpactual/ordergenerator/adapters/outbound/messaging/OrderMessagingImpl.class
+br/com/btgpactual/ordergenerator/config/common/annotation/ValidUUID.class
+br/com/btgpactual/ordergenerator/adapters/outbound/messaging/response/OrderResponse$ItensResponse.class
+br/com/btgpactual/ordergenerator/adapters/inbound/controller/OrderController.class
